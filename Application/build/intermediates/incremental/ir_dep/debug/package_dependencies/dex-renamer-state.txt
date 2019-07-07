@@ -1,0 +1,4 @@
+#Sun Jul 07 12:45:49 COT 2019
+base.0=C\:\\Users\\Camilo\\Documents\\hackaton\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
